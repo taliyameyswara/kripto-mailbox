@@ -1,6 +1,3 @@
-
-<img src="http://icbt.lk/skillsnthrills/wp-content/uploads/2020/11/263771650022212.png" align="center" width=300px>
-
 ## Cara Menggunakan!
 
 - Buka file `db.php` di folder `include`
@@ -11,12 +8,10 @@
 - Siap digunakan!
 
 ### Admin User & Pass
-
+masuk ke link /admin
  - Email: admin@admin.com
  - Password: admin123
 
-## ⭐️ Demo [https://demo.romaa.uno/mail](https://demo.romaa.uno/mail)
-## ⭐️ Demo Admin Login [https://demo.romaa.uno/mail/admin](https://demo.romaa.uno/mail/admin)
 <img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20Screenshot.png" align="left" width=300px>
 <img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20AJ-Email%20Application.png" align="left" width=300px>
 <img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20AJ-Email%20Application(4).png" align="left" width=300px>
